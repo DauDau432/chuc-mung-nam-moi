@@ -3,7 +3,7 @@
 Một trang web chúc mừng năm mới 2026 với bầu trời pháo hoa (canvas) và lớp lời chúc tự hiện ngẫu nhiên. Thiết kế theo phong cách glass + giọt nước, chạy mượt trên desktop/mobile.
 
 <div align="center">
-  <a href="./demo.mp4">
+  <a href="./demo.gif">
     <img src="./demo.gif" alt="Demo Video" width="100%">
   </a>
   <br>
