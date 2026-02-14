@@ -7,7 +7,7 @@ Một trang web chúc mừng năm mới 2026 với bầu trời pháo hoa (canva
     <img src="./demo.gif" alt="Demo Video" width="100%">
   </a>
   <br>
-  <i>Click vào ảnh để xem video full (có âm thanh)</i>
+  <i>Click vào ảnh để xem video demo</i>
 </div>
 
 ## Highlight
